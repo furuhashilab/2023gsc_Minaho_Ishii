@@ -15,7 +15,7 @@
 © Furuhashi Laboratory/ Minaho Ishii, CC BY 4.0
 
 ## Abstract
-本研究では、誰でも無料で利活用できるオープンソースのソフトウェア「OpenDroneMap」の普及を目的として、その概要と利用方法をグラレコにまとめ、日本への瀰漫を図り、Wikipediaページの日本語翻訳をする。
+本研究では、誰でも無料で利活用できるオープンソースのソフトウェア「OpenDroneMap」の普及を目的として、その概要と利用方法をグラレコにまとめ、日本への瀰漫を図り、Wikipediaページ(https://ja.wikipedia.org/wiki/OpenDroneMap)の日本語翻訳をする。
 加えて、OpenDroneMapの課題と今後の展望についても考察する。
 
 ## Introduction
