@@ -44,6 +44,7 @@
 
 ## 参考文献
 DroneRoofer「ドローンの活用方法・事例集 ジャンル別に紹介」https://drone-roofer.com/mottobe/topics/column/677/
+
 国土交通省「OpenDroneMapのご案内」https://www.mlit.go.jp/common/001218603.pdf
 
 ## グラレコ
