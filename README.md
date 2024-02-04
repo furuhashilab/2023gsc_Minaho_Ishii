@@ -38,3 +38,12 @@
 ## Discussion
 
 ## Conclution
+
+## 謝辞
+本論文の執筆にあたり、多くの方々にご協力いただきました。指導教員である古橋大地教授には、丁寧な指導と適切な助言をいただきました。深く感謝いたします。
+
+## 参考文献
+DroneRoofer「ドローンの活用方法・事例集 ジャンル別に紹介」https://drone-roofer.com/mottobe/topics/column/677/
+国土交通省「OpenDroneMapのご案内」https://www.mlit.go.jp/common/001218603.pdf
+
+## グラレコ
